@@ -1,0 +1,6 @@
+Para el sistema de atencion ciudadana cuenta con un usuario precargado:
+Usuario:  admin
+Contraseña: zentla23
+
+Para el modulo de consulta ciudadana:
+El ciudadano podra ingresar con el folio y contraseña que le proporcionara la persona que registre su solicitud
