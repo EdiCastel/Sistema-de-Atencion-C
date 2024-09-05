@@ -1,0 +1,82 @@
+#login-panel {
+
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 100px;
+
+}
+
+
+.negritas {
+    font-weight: bold;
+}
+
+
+/*  ---------------- */
+
+.card-evidencias .card-body {
+    max-height: 100px;
+    min-height: 100px;
+    overflow: auto;
+}
+
+.card-evidencias .img-container {
+    max-height: 120px;
+    min-height: 120px;
+    text-align: center;
+    
+}
+
+.card-evidencias img {
+    margin: 10px;
+    max-height: 100px;
+    max-width: 120px;
+    
+}
+
+.card-evidencias {
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.card-evidencias:hover {
+    background-color: #efefef;
+    transition: 0.2s;
+}
+
+.card-evidencias.card-pdf img {
+    max-width: 80px;
+    max-width: 80px;
+}
+
+.card-evidencias .card-text {
+    font-size: 80%;
+    line-height: 1.2;
+}
+
+
+/* ESTILOS PARA LOS ICONOS DE REDES EN EL FOOTER*/
+.social-icons {
+    margin-top: 5px;
+    margin-bottom: -10px;
+}
+.social-icons a, span {
+    margin-right: 20px;
+    margin-left: 20px;
+
+}
+
+/* ESTILO DE LOS CARDS EN PAGINA PRINCIPAL */
+
+.header-azul {
+    background-color: #4e73df !important;
+    color: #efefef !important;
+}
+
+.borde-azul {
+    border: 1px solid #4e73df !important;
+}
+
+.texto-azul {
+    color: #4e73df !important;
+}
